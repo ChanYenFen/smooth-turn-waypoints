@@ -36,7 +36,7 @@ Insert entry waypoints between strokes using angle-capped polygonal turns and fo
 
   ![uturn](examples/uturn.png)
 
-- **Animation**: Showing the 2 above cases
+- **U-turn animation**: normal turn and U-turn side by side
 
   ![uturn demo](examples/uturn_demo.gif)
 
