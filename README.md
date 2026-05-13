@@ -1,6 +1,6 @@
 # Smooth Turn Waypoints
 
-Motion path post-processor for a 2D gantry jetting dispenser.
+Waypoint insertion for a 2D gantry dispensing system with pulse-triggered valve control.
 
 ![cover](examples/cover.png)
 
@@ -15,8 +15,6 @@ High-speed gantry travel causes overshoot at dispensing points. The dispenser ac
 ## Solution
 
 Insert entry waypoints between strokes using angle-capped polygonal turns and forward offsets, so the gantry decelerates and aligns before entering the trigger zone.
-
-![overview](examples/overview.png)
 
 ![demo](examples/overall_demo.gif)
 
@@ -37,6 +35,8 @@ Insert entry waypoints between strokes using angle-capped polygonal turns and fo
 - **U-turn**: handled as a special case with a dedicated turn sequence
 
   ![uturn](examples/uturn.png)
+
+- **Animation**: Showing the 2 above cases
 
   ![uturn demo](examples/uturn_demo.gif)
 
