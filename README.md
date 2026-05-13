@@ -44,6 +44,10 @@ Insert entry waypoints between strokes using angle-capped polygonal turns and fo
 - Reads stroke geometry from Grasshopper point tree
 - Outputs travel polylines and waypoint positions
 
+## Requirements
+- Rhinoceros 3D + Grasshopper
+- Runs as a Python Script component inside a Grasshopper canvas
+
 ## Related
 
 - [nearest-neighbor-routing](https://github.com/ChanYenFen/nearest-neighbor-routing) — travel order optimization for the same machine
