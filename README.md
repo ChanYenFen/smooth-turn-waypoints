@@ -2,7 +2,7 @@
 
 Waypoint insertion for a 2D gantry dispensing system with pulse-triggered valve control.
 
-![cover](examples/cover.png)
+![cover](examples/cover_2.png)
 
 ## Problem
 
