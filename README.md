@@ -44,15 +44,6 @@ Insert entry waypoints between strokes using angle-capped polygonal turns and fo
 - Reads stroke geometry from Grasshopper point tree
 - Outputs travel polylines and waypoint positions
 
-## Screenshots
-
-![](examples/ViewCapture20260513_131525.png)
-![](examples/ViewCapture20260513_142458.png)
-![](examples/ViewCapture20260513_142537.png)
-![](examples/ViewCapture20260513_142936.png)
-![](examples/ViewCapture20260513_144503.png)
-![](examples/ViewCapture20260513_144549.png)
-
 ## Related
 
 - [nearest-neighbor-routing](https://github.com/ChanYenFen/nearest-neighbor-routing) — travel order optimization for the same machine
